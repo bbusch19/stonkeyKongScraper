@@ -14,6 +14,7 @@ const puppeteer = require('puppeteer');
 //     await page.type('[type=text', `${username}`);
 
 //     await page.type('[type=password', '');
+//     Get yourself some envs bro
 
 //     await page.screenshot({path: '2.png'});
 
