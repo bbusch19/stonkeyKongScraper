@@ -1,0 +1,26 @@
+{
+  "name": "stonkeykongscraper",
+  "version": "1.0.0",
+  "description": "stonks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scotttharvey/stonkeyKongScraper.git"
+  },
+  "keywords": [
+    "stonks"
+  ],
+  "author": "Scott Harvey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scotttharvey/stonkeyKongScraper/issues"
+  },
+  "homepage": "https://github.com/scotttharvey/stonkeyKongScraper#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
